@@ -13,7 +13,7 @@ const geistMono = localFont({
 });
 
 export const metadata = {
-  title: "CPRG 306 - Assignments",
+  title: "Shopping List",
   description: "Assignments for Web Dev 2",
 };
 
